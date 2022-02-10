@@ -1,7 +1,11 @@
+#### Hi Everyone 👋 I'm Lucien Murhula Kalala
+
 <img src="https://img.freepik.com/free-vector/website-development-web-page-programming-coding_277904-5103.jpg?size=626&ext=jpg&ga=GA1.2.1483024258.1641254400">
-### Hi Everyone 👋
-***
-I'm Lucien Murhula Kalala
+
+#### About Me
+
+#### Technologies I use
+
 <!--
 **LucienKalala/LucienKalala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
