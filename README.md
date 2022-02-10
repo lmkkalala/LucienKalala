@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Lucien Murhula Kalala
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fvectors%2Fdesigner-developer&psig=AOvVaw03UlCljh52hwa06DukgF04&ust=1644570039304000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLC9j4Xj9PUCFQAAAAAdAAAAABAD">
+<img src="https://img.freepik.com/free-vector/website-development-web-page-programming-coding_277904-5103.jpg?size=626&ext=jpg&ga=GA1.2.1483024258.1641254400">
 
 <!--
 **LucienKalala/LucienKalala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
