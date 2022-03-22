@@ -1,15 +1,16 @@
 #### Hi Everyone 👋 
 #### :smiley: I'm Lucien Murhula Kalala
 
-<img src="https://img.freepik.com/free-vector/website-development-web-page-programming-coding_277904-5103.jpg?size=626&ext=jpg&ga=GA1.2.1483024258.1641254400">
+<img src="https://img.freepik.com/free-vector/website-development-web-page-programming-coding_277904-5103.jpg?size=626&ext=jpg&ga=GA1.2.1483024258.1641254400" height="200">
 
-#### :question: About Me
+#### :question: WHAT YOU SHOULD KNOW
+
+I'm an entrepreneur, full-stack developer, and software engineer who builds tools that can help people by providing useful solutions that can be used as a handheld for the daily challenges that we face. Motivated by daily learning, looking for new opportunities to increase my knowledge in software tools development, and open for new contacts. To add to that I'm a French to English translator and languages lover.
 
   + I'm a passionate of programming and all the things that we can do with it
   + Current working at [CTLCo Sarl](https://ctlcosarl.com) as the WEB Master and IT
-  + check out my [portfolio](https://lucienkalala.github.io/Portfolio) for more informations
   
-#### :computer: Technologies I use
+#### 💡 TECHNOLOGIES I USE
 
 ![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=) 
 ![CodeIgniter](https://img.shields.io/static/v1?style=for-the-badge&message=CodeIgniter&color=EF4223&logo=CodeIgniter&logoColor=FFFFFF&label=) 
@@ -24,18 +25,23 @@
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 
-#### :computer: Tools
+#### 💻 TOOLS
 
 ![Sublime Text](https://img.shields.io/static/v1?style=for-the-badge&message=Sublime+Text&color=222222&logo=Sublime+Text&logoColor=FF9800&label=)
 ![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)
 ![XAMPP](https://img.shields.io/static/v1?style=for-the-badge&message=XAMPP&color=FB7A24&logo=XAMPP&logoColor=FFFFFF&label=)<br>
 ![phpMyAdmin](https://img.shields.io/static/v1?style=for-the-badge&message=phpMyAdmin&color=6C78AF&logo=phpMyAdmin&logoColor=FFFFFF&label=)
 ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
-+ Chrome DevTool
-+ Wamp
+#### 📓 WORKED ON PROJECTS
 
-#### :+1: Connect with Me
+  + [Vantoria Attendence](https://demo.vantoria.ctlcosarl.com/)
+  + [Congo SalamaNET](https://congosalamanet.ctlcosarl.com/)
+  + [ctlcosarl](https://ctlcosarl.com/)
 
+#### ☎️ CONNECT WITH ME
+
++ By checking out my [portfolio](https://lucienkalala.github.io/Portfolio)
++ By visitig my [linkedin](https://www.linkedin.com/in/lucien-kalala-4a239b17a) 
 
 
 <!--
