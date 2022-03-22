@@ -40,9 +40,10 @@ I'm an entrepreneur, full-stack developer, and software engineer who builds tool
 
 #### ☎️ CONNECT WITH ME
 
-+ By checking out my [portfolio](https://lucienkalala.github.io/Portfolio)
-+ By visitig my [linkedin](https://www.linkedin.com/in/lucien-kalala-4a239b17a) 
-
++ By checking out my [Portfolio](https://lucienkalala.github.io/Portfolio)
++ By visitig my [Linkedin](https://www.linkedin.com/in/lucien-kalala-4a239b17a) 
++ By visitig my [Facebook](https://web.facebook.com/lmkkalala/) 
++ By visitig my [Instagram](https://www.instagram.com/lucien_kalala/) 
 
 <!--
 **LucienKalala/LucienKalala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
