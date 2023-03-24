@@ -37,8 +37,8 @@ I'm an entrepreneur, full-stack developer, and software engineer who builds tool
   + [Vantoria Attendence](https://demo.vantoria.ctlcosarl.com/)
   + [Congo SalamaNET](https://congosalamanet.ctlcosarl.com/)
   + [ctlcosarl](https://ctlcosarl.com/)
-  + [Tirage]()
-  + [Ecofoot-PL]()
+  + [GainIT](https://gainit.shop)
+  + [Ecofoot-GL](https://ecofoot-gl.com)
   + [Pduka](https://pduka22.com)
 
 #### ☎️ CONNECT WITH ME
