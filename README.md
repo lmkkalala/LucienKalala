@@ -5,7 +5,13 @@
 
 #### :question: WHAT YOU SHOULD KNOW
 
-I'm an entrepreneur, full-stack developer, and software engineer who builds tools that can help people by providing useful solutions that can be used as a handheld for the daily challenges that we face. Motivated by daily learning, looking for new opportunities to increase my knowledge in software tools development, and open for new contacts. To add to that I'm a French to English translator and languages lover.
+I'm a full-stack developer with five years experience in the field, I build software solutions that can be used as a
+
+handheld for the daily challenges that we face. Motivated by daily learning and looking for new opportunities to
+
+increase my knowledge and challenging the one I have. I use PHP Laravel or Codeigniter for my Back end and for
+
+UI/UX I'm a Vue JS lover.
 
   + I'm a passionate of programming and all the things that we can do with it
   + Current working at [CTLCo Sarl](https://ctlcosarl.com) as the WEB Master and IT
