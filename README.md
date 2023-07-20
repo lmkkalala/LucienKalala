@@ -1,7 +1,10 @@
 #### Hi Everyone 👋 
+
 #### :smiley: I'm Lucien Murhula Kalala
 
+<br>
 <img src="https://img.freepik.com/free-vector/website-development-web-page-programming-coding_277904-5103.jpg?size=626&ext=jpg&ga=GA1.2.1483024258.1641254400" height="200">
+<br>
 
 #### :question: WHAT YOU SHOULD KNOW
 
@@ -31,7 +34,7 @@ UI/UX I'm a Vue JS lover.
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 
-#### 💻 TOOLS
+#### 💻 DAILY USED TOOLS
 
 ![Sublime Text](https://img.shields.io/static/v1?style=for-the-badge&message=Sublime+Text&color=222222&logo=Sublime+Text&logoColor=FF9800&label=)
 ![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)
@@ -40,12 +43,7 @@ UI/UX I'm a Vue JS lover.
 ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
 #### 📓 WORKED ON PROJECTS
 
-  + [Vantoria Attendence](https://vantoriatech.com/)
-  + [Congo SalamaNET](https://congosalamanet.ctlcosarl.com/)
-  + [ctlcosarl](https://ctlcosarl.com/)
-  + [GainIT](https://gainit.shop)
-  + [Ecofoot-GL](https://ecofoot-gl.com)
-  + [Pduka](https://pduka22.com)
+⚡ [Vantoria Attendence](https://vantoriatech.com/) || ⚡ [Congo SalamaNET](https://congosalamanet.ctlcosarl.com/) || ⚡ [ctlcosarl](https://ctlcosarl.com/) || ⚡ [Gain IT](https://gainit.shop) || ⚡ [Ecofoot-GL](https://ecofoot-gl.com) || ⚡ [Pduka](https://pduka22.com)
 
 #### ☎️ CONNECT WITH ME
 By checking out my [Portfolio](https://lucienkalala.github.io/PersonalPage) || By visiting my [Linkedin](https://www.linkedin.com/in/lucien-kalala-4a239b17a) || By visiting my [Facebook](https://web.facebook.com/lmkkalala/) || By visiting my [Instagram](https://www.instagram.com/lucien_kalala/) 
