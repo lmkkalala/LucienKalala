@@ -5,16 +5,16 @@
 
 #### :question: WHAT YOU SHOULD KNOW
 
-I'm a full-stack developer with five years experience in the field, I build software solutions that can be used as a
+I'm a full-stack developer with five years of experience in the field, I build software solutions that can be used as a
 
 handheld for the daily challenges that we face. Motivated by daily learning and looking for new opportunities to
 
-increase my knowledge and challenging the one I have. I use PHP Laravel or Codeigniter for my Back end and for
+increase my knowledge and challenge the one I have. I use PHP Laravel or Codeigniter for my Back end and for
 
 UI/UX I'm a Vue JS lover.
 
-  + I'm a passionate of programming and all the things that we can do with it
-  + Current working at [CTLCo Sarl](https://ctlcosarl.com) as the WEB Master and IT
+  + I'm passionate about programming and all the things that we can do with it
+  + Current working at [CTLCo Sarl](https://ctlcosarl.com) on part-time as the WEB Master and IT
   
 #### 💡 TECHNOLOGIES I USE
 
@@ -40,7 +40,7 @@ UI/UX I'm a Vue JS lover.
 ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
 #### 📓 WORKED ON PROJECTS
 
-  + [Vantoria Attendence](https://demo.vantoria.ctlcosarl.com/)
+  + [Vantoria Attendence](https://vantoriatech.com/)
   + [Congo SalamaNET](https://congosalamanet.ctlcosarl.com/)
   + [ctlcosarl](https://ctlcosarl.com/)
   + [GainIT](https://gainit.shop)
@@ -48,11 +48,7 @@ UI/UX I'm a Vue JS lover.
   + [Pduka](https://pduka22.com)
 
 #### ☎️ CONNECT WITH ME
-
-+ By checking out my [Portfolio](https://lucienkalala.github.io/Portfolio)
-+ By visitig my [Linkedin](https://www.linkedin.com/in/lucien-kalala-4a239b17a) 
-+ By visitig my [Facebook](https://web.facebook.com/lmkkalala/) 
-+ By visitig my [Instagram](https://www.instagram.com/lucien_kalala/) 
+By checking out my [Portfolio](https://lucienkalala.github.io/PersonalPage) || By visiting my [Linkedin](https://www.linkedin.com/in/lucien-kalala-4a239b17a) || By visiting my [Facebook](https://web.facebook.com/lmkkalala/) || By visiting my [Instagram](https://www.instagram.com/lucien_kalala/) 
 
 <!--
 **LucienKalala/LucienKalala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
