@@ -46,7 +46,7 @@ UI/UX I'm a Vue JS lover.
 ⚡ [Vantoria Attendence](https://vantoriatech.com/) || ⚡ [Congo SalamaNET](https://congosalamanet.ctlcosarl.com/) || ⚡ [ctlcosarl](https://ctlcosarl.com/) || ⚡ [Gain IT](https://gainit.shop) || ⚡ [Ecofoot-GL](https://ecofoot-gl.com) || ⚡ [Pduka](https://pduka22.com)
 
 #### ☎️ CONNECT WITH ME
-By checking out my [Portfolio](https://lucienkalala.github.io/PersonalPage) || By visiting my [Linkedin](https://www.linkedin.com/in/lucien-kalala-4a239b17a) || By visiting my [Facebook](https://web.facebook.com/lmkkalala/) || By visiting my [Instagram](https://www.instagram.com/lucien_kalala/) 
+By checking out my [Portfolio](https://lucienkalala.github.io/PersonalPage) || By visiting my [Linkedin](https://www.linkedin.com/in/lmkkalala) || By visiting my [Facebook](https://web.facebook.com/lmkkalala/) || By visiting my [Instagram](https://www.instagram.com/lmkkalala/)
 
 <!--
 **LucienKalala/LucienKalala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
