@@ -17,7 +17,6 @@ increase my knowledge and challenge the one I have. I use PHP Laravel or Codeign
 UI/UX I'm a Vue JS lover.
 
   + I'm passionate about programming and all the things that we can do with it
-  + Current working at [CTLCo Sarl](https://ctlcosarl.com) on part-time as the WEB Master and IT
   
 #### 💡 TECHNOLOGIES I USE
 
