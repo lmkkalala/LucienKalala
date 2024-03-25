@@ -40,9 +40,6 @@ UI/UX I'm a Vue JS lover.
 ![XAMPP](https://img.shields.io/static/v1?style=for-the-badge&message=XAMPP&color=FB7A24&logo=XAMPP&logoColor=FFFFFF&label=)<br>
 ![phpMyAdmin](https://img.shields.io/static/v1?style=for-the-badge&message=phpMyAdmin&color=6C78AF&logo=phpMyAdmin&logoColor=FFFFFF&label=)
 ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
-#### 📓 WORKED ON PROJECTS
-
-⚡ [Vantoria Attendence](https://vantoriatech.com/) || ⚡ [Congo SalamaNET](https://congosalamanet.ctlcosarl.com/) || ⚡ [ctlcosarl](https://ctlcosarl.com/) || ⚡ [Gain IT](https://gainit.shop) || ⚡ [Ecofoot-GL](https://ecofoot-gl.com) || ⚡ [Pduka](https://pduka22.com)
 
 #### ☎️ CONNECT WITH ME
 By checking out my [Portfolio](https://lucienkalala.github.io/PersonalPage) || By visiting my [Linkedin](https://www.linkedin.com/in/lmkkalala) || By visiting my [Facebook](https://web.facebook.com/lmkkalala/) || By visiting my [Instagram](https://www.instagram.com/lmkkalala/)
