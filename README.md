@@ -3,8 +3,6 @@
 #### :smiley: I'm Lucien Murhula Kalala
 
 <br>
-<img src="https://img.freepik.com/free-vector/website-development-web-page-programming-coding_277904-5103.jpg?size=626&ext=jpg&ga=GA1.2.1483024258.1641254400" height="200">
-<br>
 
 #### :question: WHAT YOU SHOULD KNOW
 
@@ -42,7 +40,7 @@ UI/UX I'm a Vue JS lover.
 ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
 
 #### ☎️ CONNECT WITH ME
-By checking out my [Portfolio](https://lucienkalala.github.io/PersonalPage) || By visiting my [Linkedin](https://www.linkedin.com/in/lmkkalala) || By visiting my [Facebook](https://web.facebook.com/lmkkalala/) || By visiting my [Instagram](https://www.instagram.com/lmkkalala/)
+By checking out my [Portfolio](https://lucienkalala.github.io/PersonalPage) By visiting my [Linkedin](https://www.linkedin.com/in/lmkkalala), my [Facebook](https://web.facebook.com/lmkkalala/) and my [Instagram](https://www.instagram.com/lmkkalala/)
 
 <!--
 **LucienKalala/LucienKalala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
