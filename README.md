@@ -23,11 +23,11 @@ I'm a full-stack developer with five years of experience in the field, I build s
 
 #### 💻 Daily Used Tools ?
 
-  ![VSCODE](https://img.shields.io/static/v1?style=for-the-badge&message=vscode&color=222222&logo=vscode&logoColor=FFFFFF&label=)
-  ![WAMP,XAMPP,MAMP](https://img.shields.io/static/v1?style=for-the-badge&message=server&color=222222&logo=server&logoColor=FFFFFF&label=)
-  ![phpMyAdmin](https://img.shields.io/static/v1?style=for-the-badge&message=phpMyAdmin&color=222222&logo=phpMyAdmin&logoColor=FFFFFF&label=)
-  ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=222222&logo=Windows&logoColor=FFFFFF&label=)
-  ![Kali](https://img.shields.io/static/v1?style=for-the-badge&message=kali&color=222222&logo=kali&logoColor=FFFFFF&label=)
+  ![VSCODE](https://img.shields.io/static/v1?style=for-the-badge&message=vscode&color=222222&logo=&logoColor=FFFFFF&label=)
+  ![WAMP,XAMPP,MAMP](https://img.shields.io/static/v1?style=for-the-badge&message=server&color=222222&logo=&logoColor=FFFFFF&label=)
+  ![phpMyAdmin](https://img.shields.io/static/v1?style=for-the-badge&message=phpMyAdmin&color=222222&logo=&logoColor=FFFFFF&label=)
+  ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=222222&logo=&logoColor=FFFFFF&label=)
+  ![Kali](https://img.shields.io/static/v1?style=for-the-badge&message=kali&color=222222&logo=&logoColor=FFFFFF&label=)
 
 #### ☎️ Connect With Me Through !
  - [Portfolio](https://lmkkalala.github.io/site)
